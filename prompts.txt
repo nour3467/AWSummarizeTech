@@ -1,0 +1,33 @@
+Example N°1:
+==========================================================================================================
+This is a on-site log report of turbine breakdown.Issue Log Date – 25-12-2023, Model Number – TB-CL-7882, Issue - Cracks appeared in the part MR 7882-9571 next to the rotor hub. The nut connecting the rotor blade to the rotor hub seems to be damaged. The Anemometer readings seem to be within range. The electric braking seems to be unused. No indication of damage to any other component of the turbine except normal wear and tear. Potential Root Cause – Seems due to reduced tensile strength of the nut connecting the blade to the rotor. Last Maintenance Date – 12-12-2023, Last Maintenance Issues Recorded - No known issues recorded and all the parameters were within range. Summarize the text in 2 lines.
+
+Cohore Output:
+The model TB-CL-7882 experienced damage to the connecting nut between the rotor blade and rotor hub, likely due to reduced tensile strength, resulting in cracks. The anemometer readings were within range, but the electric braking and wear and tear on the turbine were also noted.
+
+
+GPT-4 Output :
+Cracks in part MR 7882-9571 and a damaged nut near the rotor hub caused the turbine breakdown, likely due to reduced tensile strength. No other component damage observed; last maintenance on 12-12-2023 showed no issues.
+
+
+Example N°2:
+==========================================================================================================
+This is a site inspection report for a transformer fault. Issue Log Date – 12-01-2024, Model Number – TR-FX-2357, Issue - Oil leakage detected in the part TR 2357-7423 near the cooling fins. The oil level indicator shows a drop. The thermal imaging scan shows no hotspots. No other components appear damaged except for standard wear and tear. Potential Root Cause – Likely due to seal deterioration around the cooling fins. Last Maintenance Date – 05-01-2024, Last Maintenance Issues Recorded - No issues noted, and all parameters were within the acceptable range.Summarize the text in 2 lines.
+
+Cohore Output:
+The transformer model number TR-FX-2357 has an oil leakage issue. The seal is likely to have deteriorated around the cooling fins, and the last maintenance was carried out a month earlier with no issues noted.
+
+GPT-4 Output :
+Oil leakage near cooling fins due to seal deterioration, with no other damage observed. Last maintenance was on 05-01-2024 with no issues recorded.
+
+
+Example N°3:
+==========================================================================================================
+This is a site log report of a boiler malfunction. Issue Log Date – 22-04-2024, Model Number – BL-ZY-9143, Issue - Pressure drop noted in section BL 9143-5897 adjacent to the heat exchanger. The pressure gauge indicates readings below the normal range. The temperature sensors show stable readings. No damage to other parts observed except routine wear. Potential Root Cause – Possibly due to a leak in the heat exchanger connections. Last Maintenance Date – 10-04-2024, Last Maintenance Issues Recorded - No known issues, and all readings were within normal limits.Summarize the text in 2 lines.
+
+Cohore Output:
+The boiler (Model No. BL-ZY-9143) is experiencing a pressure drop issue and the pressure gauge indicates readings below the normal range, though the temperature sensors show stable readings. There is no known issue from the last maintenance recorded.
+
+GPT-4 Output :
+Pressure drop near the heat exchanger due to a potential leak, with no other damage observed. Last maintenance was on 10-04-2024 with no issues recorded.
+

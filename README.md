@@ -155,7 +155,7 @@ This is an on-site log report of turbine breakdown.
 
 Watch the demo video below to see the AWS Movie Poster Creator in action:
 
-https://github.com/nour3467/aws-movie-poster-creator/assets/71594772/5593a5b0-f11f-4376-ae9a-aa3118688cde
+https://github.com/nour3467/AWSummarizeTech/assets/71594772/f6e4b900-101f-410d-9370-97ad1b5b9628
 
 
 ## Contributing 🤝
